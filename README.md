@@ -1,4 +1,4 @@
-# Estimating protein content in multiple grain cereals using NIRS and machine learning
+## Estimating protein content in multiple grain cereals using NIRS and machine learning
 <div>
   <img src="./img/rational.gif" alt="Overview">
 
